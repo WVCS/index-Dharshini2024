@@ -21,3 +21,25 @@ body {
   background-color: #9cd3c0;
   color: #084C61;
 }
+
+h1 {
+ font-size: 100px;
+ font-family: Georgia;
+ color: #084c61;
+}
+h2 {
+ font-size: 25px;
+ font-family: Georgia;
+ color: #685369
+}
+
+ul {
+  list-style-type: none;
+}
+li {
+  font-size: 20px;
+  font-behavior: bold;
+  font-family: Georgia;
+  color: #bb7e5d;
+  padding: 10px;
+}
